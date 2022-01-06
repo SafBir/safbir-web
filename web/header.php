@@ -13,6 +13,8 @@
 
     <link rel="shortcut icon" href="./images/SafBir-Logo-Icon.ico" type="image/x-icon">
 
+    <link rel="stylesheet" href="./style/main.css">
+
     <title>SafBir - WebSite</title>
 
 </head>
