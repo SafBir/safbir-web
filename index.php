@@ -17,6 +17,18 @@ include "./web/header.php";
 
 <img src="./images/SafBir-Logo.png" alt="logo" class='logo'>
 
+<div class="menu">
+
+
+
 </div>
+
+</div>
+
+<?php
+
+include "./web/footer.php";
+
+?>
 
 </body>

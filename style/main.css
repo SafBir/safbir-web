@@ -9,6 +9,7 @@ body
     color: #fff;
     font-family: 'Manrope', sans-serif;
     text-align: center;
+    overflow: hidden;
 }
 
 *
@@ -29,6 +30,7 @@ body
     margin-bottom: 100px;
     margin-left: 300px;
     margin-right: 300px;
+    overflow: hidden;
 }
 
 .subtitle
@@ -61,4 +63,36 @@ body
 .logo
 {
     height: 200px;
+}
+
+.link
+{
+    display: inline-block;
+    text-decoration: none;
+}
+
+.footer
+{
+    position: absolute;
+    display: block;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: auto;
+    background-color: transparent;
+    color: #fff;
+    text-align: center;
+}
+
+.footer p
+{
+    font-size: 16px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.footer-social *
+{
+    margin-left: 5px;
+    margin-right: 5px;
 }

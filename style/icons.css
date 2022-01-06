@@ -1,0 +1,47 @@
+.icon-github
+{
+    display: block;
+    position: relative;
+    width: 30px;
+    height: 30px;
+    background-image: url("../images/icons/github.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.icon-dicord
+{
+    display: block;
+    position: relative;
+    width: 30px;
+    height: 30px;
+    background-image: url("../images/icons/discord.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.icon-telegram
+{
+    display: block;
+    position: relative;
+    width: 30px;
+    height: 30px;
+    background-image: url("../images/icons/telegram.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.icon-web
+{
+    display: block;
+    position: relative;
+    width: 30px;
+    height: 30px;
+    background-image: url("../images/icons/global.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
