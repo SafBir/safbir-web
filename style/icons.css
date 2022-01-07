@@ -1,3 +1,15 @@
+.icon-logo
+{
+    display: inline-block;
+    position: relative;
+    width: 200px;
+    height: 200px;
+    background-image: url("../images/SafBir-Logo.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .icon-github
 {
     display: block;
