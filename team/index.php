@@ -23,17 +23,29 @@ include "../web/header.php";
 
     <div class="menu">
 
-        <a href="" class="menu-button">
-            Projects
-        </a>
+        <h3>Our Team</h3>
 
-        <a href="" class="menu-button">
-            Team
-        </a>
+        <div class="card">
 
-        <a href="" class="menu-button">
-            About Us
-        </a>
+            <div class="photo">
+                
+                <img src="../images/team/blogchik.png" alt="Avatar">
+            
+            </div>
+
+            <div class="title">
+                
+                <p>Jabborov Abduroziq</p>
+
+            </div>
+
+            <div class="subtitle">
+
+                <p>18 y.o. Web-Developer! Creator of SafBir!</p>
+
+            </div>
+
+        </div>
 
     </div>
 
