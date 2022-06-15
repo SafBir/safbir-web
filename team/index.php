@@ -1,6 +1,6 @@
 <?php
 
-include "../web/header.php";
+include "../web/header2.php";
 
 ?>
 
@@ -53,7 +53,7 @@ include "../web/header.php";
 
 <?php
 
-include "../web/footer.php";
+include "../web/footer2.php";
 
 ?>
 
