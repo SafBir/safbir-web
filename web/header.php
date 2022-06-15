@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="./style/main.css">
     <link rel="stylesheet" href="./style/icons.css">
 
-    <title>SafBir - Uzbekistan cyber develoeprs team!</title>
+    <title>SafBir - Uzbekistan cyber developers team!</title>
 
 </head>
 
