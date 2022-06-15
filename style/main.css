@@ -32,32 +32,6 @@ body
     margin-right: 300px;
 }
 
-.title
-{
-    animation-name: title;
-    animation-duration: 3s;
-    animation-iteration-count: infinite;
-}
-
-@keyframes title
-{
-    0%
-    {
-        color: transparent;
-        opacity: 0;
-    }
-    50%
-    {
-        color: #fff;
-        opacity: 1;
-    }
-    100%
-    {
-        color: transparent;
-        opacity: 0;
-    }
-}
-
 .subtitle
 {
     text-shadow: 0 0 25px #fff;

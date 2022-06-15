@@ -11,7 +11,7 @@
 </div>
 
 <p>
-    2021 - 2022 <b>SafBir</b> &copy; Barcha huquqlar himoyalangan!
+    2021 - 2022 <b>SafBir</b> &copy; All rights reserved!
 </p>
 
 </div>
