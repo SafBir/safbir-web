@@ -1,6 +1,6 @@
 <?php
 
-include "./web/header.php";
+include "../web/header.php";
 
 ?>
 
@@ -27,7 +27,7 @@ include "./web/header.php";
             Projects
         </a>
 
-        <a href="./team/" class="menu-button">
+        <a href="" class="menu-button">
             Team
         </a>
 
@@ -41,7 +41,7 @@ include "./web/header.php";
 
 <?php
 
-include "./web/footer.php";
+include "../web/footer.php";
 
 ?>
 
