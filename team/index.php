@@ -13,11 +13,6 @@ include "../web/header2.php";
         <h1 class='title'>
             SafBir - Safety Birds
         </h1>
-        <p class='subtitle'>
-            Uzbekistan - Cyber developers team.
-        </p>
-
-        <i class="icon-logo"></i>
 
     </div>
 

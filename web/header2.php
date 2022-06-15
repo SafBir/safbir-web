@@ -13,8 +13,8 @@
 
     <link rel="shortcut icon" href="../images/SafBir-Logo-Icon.ico" type="image/x-icon">
 
-    <link rel="stylesheet" href="../style/main.css">
-    <link rel="stylesheet" href="../style/icons.css">
+    <link rel="stylesheet" href="../style/main2.css">
+    <link rel="stylesheet" href="../style/icons2.css">
 
     <title>SafBir - Uzbekistan cyber develoeprs team!</title>
 
