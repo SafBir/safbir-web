@@ -14,7 +14,7 @@ include "./web/header.php";
             SafBir - Safety Birds
         </h1>
         <p class='subtitle'>
-            Uzbekistan - Cyber Security team.
+            Uzbekistan - Cyber developers team.
         </p>
 
         <i class="icon-logo"></i>
