@@ -31,6 +31,10 @@ include "./web/header.php";
             Team
         </a>
 
+        <a href="" class="menu-button">
+            About Us
+        </a>
+
     </div>
 
 </div>
